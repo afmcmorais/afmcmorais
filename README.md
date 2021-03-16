@@ -1,7 +1,5 @@
 # Olá, eu sou o André! :green_apple:
 
-## Sobre mim
-
 <p>
 
 ### Principais Skills:
