@@ -1,4 +1,4 @@
-### Olá, eu sou o André! :green_apple:
+# Olá, eu sou o André! :green_apple:
 
 ## Sobre mim
 
