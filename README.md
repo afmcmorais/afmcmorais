@@ -23,3 +23,8 @@
 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+
+### Estudando no momento:
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Algoritimo](https://img.shields.io/badge/-Algoritimos-05122A?style=for-the-badge&logo=algorithm)&nbsp;
