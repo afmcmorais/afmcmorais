@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o André! :green_apple:
+
+## Sobre mim
+
+<p></p>
 
 <!--
 **afmcmorais/afmcmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
