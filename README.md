@@ -37,8 +37,8 @@
 ### GitHub Analytics
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afmcmorais&show_icons=true&theme=monokai"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afmcmorais&layout=compact&langs_count=8&theme=monokai"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afmcmorais&show_icons=true&theme=highcontrast"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afmcmorais&layout=compact&langs_count=8&theme=highcontrast"/>
 </p>
 
 ### Minhas Redes Sociais
