@@ -25,7 +25,7 @@
 ### Estudando no momento:
 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Algoritimo](https://img.shields.io/badge/-Algoritimos-05122A?style=for-the-badge&logo=algorithm)&nbsp;
+
 
 ### Áreas de Interesse:
 
