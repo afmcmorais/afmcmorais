@@ -1,6 +1,7 @@
-# Olá, eu sou o André! :green_apple:
+# Olá, eu sou o André! :smiley:
 
-<p>
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afmcmorais)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 
 ### Principais Skills:
 
@@ -42,7 +43,5 @@
 ### Minhas Redes Sociais
 
 <a href="https://www.linkedin.com/in/afmcmorais/" target="_blank"><img src="https://img.shields.io/badge/-André Felipe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/afmcmorais" target="_blank"><img src="https://img.shields.io/badge/-@afmcmorais-00BFFF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:afmcmorais@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-afmcmorais@icloud.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://instagram.com/afmcmorais" target="_blank"><img src="https://img.shields.io/badge/-@afmcmorais-C13584?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
