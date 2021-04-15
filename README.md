@@ -7,5 +7,5 @@
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera Educacional, cursando o penúltimo semestre.
 
-- [Courses](https://www.cursoemvideo.com/) 👨🏼‍🏫 - Fiz alguns cursos com o Professor Guanabara aprimorando meus conhecimentos em diversas tecnologias.
-- [Website]() 💻 - Trabalhando nisso.
+- [Cursos](https://www.cursoemvideo.com/) 👨🏼‍🏫 - Fiz alguns cursos com o Professor Guanabara aprimorando meus conhecimentos em diversas tecnologias.
+- [WebSite]() 💻 - Trabalhando nisso.
