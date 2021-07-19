@@ -35,11 +35,3 @@
 ### Estuando no momento...
 
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### GitHub Stats
-
-  <a href="https://github.com/afmcmorais">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afmcmorais&layout=compact&langs_count=20&theme=graywhite"/>
-
-
-
