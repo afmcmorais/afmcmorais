@@ -35,3 +35,4 @@
 ### Estuando no momento...
 
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Santander](https://img.shields.io/badge/Santander_Bootcamp_2021|_Fullstack_Developer-CC0000?style=for-the-badge&logoColor=white)
