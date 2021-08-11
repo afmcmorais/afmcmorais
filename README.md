@@ -32,7 +32,4 @@
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Estuando no momento...
 
-![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Santander](https://img.shields.io/badge/Santander_Bootcamp_2021|_Fullstack_Developer-CC0000?style=for-the-badge&logoColor=white)
