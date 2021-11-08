@@ -9,8 +9,6 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para os problemas de tecnologia do nosso mundo.
 
-- [Cursos](https://www.cursoemvideo.com/) 👨🏼‍🏫 - Fiz alguns cursos com o Professor Guanabara aprimorando meus conhecimentos em diversas tecnologias.
-- [WebSite](https://afmcmorais.github.io/portfolio-dev/) 💻 - Trabalhando nisso.
 
 ### Linguagens e Ferramentas
 
