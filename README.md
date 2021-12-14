@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-- 🎓 Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional.
+- 🎓 Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera Educacional.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para os problemas de tecnologia do nosso mundo.
 
 
