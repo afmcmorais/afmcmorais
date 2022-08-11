@@ -7,6 +7,7 @@
 ### Sobre mim
 
 - 🎓 Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera Educacional.
+- 🎓 Engenharia de Software com Ênfase em Qualidade e Teste de Software pela Faculdade Anhanguera Educacional.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para os problemas de tecnologia do nosso mundo.
 
 
